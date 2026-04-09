@@ -1,0 +1,201 @@
+customerid,customer_name,gender,age,country,purchase_date,product_category,amount_spent,payment_method,rating
+1133,Carol White,Female,42,India,Unknown,Electronics,2606.28,Credit Card,3
+1149,David Brown,Female,42,India,07-08-2023,Electronics,2606.28,Debit Card,3
+1094,Jack Anderson,Male,24,Germany,09-08-2023,Sports,2606.28,Paypal,3
+1181,Grace Wilson,Male,42,India,Unknown,Clothing,2606.28,Paypal,5
+1016,Eve Davis,Female,42,USA,19-03-2023,Electronics,2606.28,Cash,3
+1116,Eve Davis,Female,42,USA,Unknown,Electronics,2606.28,Paypal,3
+1173,Eve Davis,Male,63,USA,21-09-2023,Food,2606.28,Debit Card,3
+1046,Eve Davis,Female,42,India,Unknown,Clothing,2606.28,Credit Card,1
+1076,Jack Anderson,Female,40,UK,Unknown,Clothing,2606.28,Cash,3
+1143,Ivy Taylor,Male,46,USA,Unknown,Sports,2606.28,Debit Card,1
+1101,Bob Smith,Male,42,Germany,13-11-2023,Clothing,2606.28,Debit Card,3
+1031,Ivy Taylor,Male,42,UK,Unknown,Clothing,2606.28,Paypal,3
+1191,David Brown,Male,42,Germany,Unknown,Electronics,2606.28,Credit Card,3
+1010,Eve Davis,Male,42,USA,Unknown,Food,2606.28,Cash,3
+1068,Henry Moore,Female,42,UK,17-05-2023,Electronics,2606.28,Credit Card,1
+1083,Henry Moore,Female,63,USA,16-09-2023,Electronics,2606.28,Debit Card,3
+1176,Alice Johnson,Male,18,USA,14-10-2023,Clothing,2606.28,Credit Card,1
+1019,Frank Miller,Female,42,USA,01-09-2023,Electronics,2606.28,Debit Card,3
+1198,David Brown,Female,42,Germany,14-08-2023,Clothing,2606.28,Credit Card,5
+1067,David Brown,Male,29,USA,Unknown,Electronics,2606.28,Cash,3
+1190,Grace Wilson,Female,42,UK,26-01-2023,Clothing,2606.28,Credit Card,4
+1097,Ivy Taylor,Male,42,USA,05-10-2023,Electronics,2606.28,Credit Card,3
+1026,Alice Johnson,Male,19,UK,03-09-2023,Food,2606.28,Credit Card,5
+1128,Eve Davis,Female,42,India,08-10-2023,Electronics,2606.28,Cash,1
+1098,Grace Wilson,Male,42,UK,26-03-2023,Food,2606.28,Debit Card,4
+1017,Bob Smith,Male,50,India,Unknown,Food,2606.28,Paypal,3
+1155,Ivy Taylor,Male,42,India,22-04-2023,Food,2606.28,Paypal,3
+1112,Carol White,Male,42,USA,15-06-2023,Sports,2606.28,Cash,2
+1056,David Brown,Male,42,India,25-05-2023,Electronics,2606.28,Paypal,3
+1109,Frank Miller,Female,42,USA,27-01-2023,Electronics,2606.28,Debit Card,3
+1197,Eve Davis,Male,42,India,18-03-2023,Electronics,2606.28,Paypal,3
+1074,Eve Davis,Male,42,Germany,10-11-2023,Electronics,2606.28,Debit Card,3
+1110,Carol White,Male,66,India,27-08-2023,Sports,2606.28,Paypal,3
+1139,Frank Miller,Female,34,UK,19-02-2023,Clothing,2606.28,Paypal,3
+1142,Grace Wilson,Female,42,UK,05-04-2023,Electronics,2606.28,Paypal,4
+1102,Alice Johnson,Male,20,USA,04-11-2023,Electronics,2606.28,Cash,3
+1087,Carol White,Male,19,Germany,20-04-2023,Clothing,2606.28,Credit Card,3
+1194,Alice Johnson,Female,42,USA,Unknown,Electronics,2606.28,Cash,3
+1121,Jack Anderson,Female,42,India,26-08-2023,Sports,2606.28,Debit Card,3
+1096,Jack Anderson,Male,42,Germany,08-06-2023,Food,2606.28,Credit Card,3
+1080,Ivy Taylor,Female,42,UK,Unknown,Electronics,2606.28,Credit Card,3
+1153,Frank Miller,Female,42,India,22-10-2023,Sports,2606.28,Debit Card,3
+1114,Carol White,Female,49,UK,Unknown,Electronics,2606.28,Credit Card,2
+1141,Jack Anderson,Male,37,Germany,21-01-2023,Electronics,2606.28,Cash,4
+1123,Carol White,Male,42,USA,22-06-2023,Sports,2606.28,Paypal,3
+1163,Ivy Taylor,Female,42,UK,10-02-2023,Food,2606.28,Credit Card,3
+1178,Bob Smith,Female,42,India,Unknown,Clothing,2606.28,Credit Card,4
+1039,Bob Smith,Male,38,Germany,03-08-2023,Sports,2606.28,Cash,3
+1025,Ivy Taylor,Male,42,UK,21-09-2023,Electronics,2606.28,Credit Card,5
+1186,Bob Smith,Male,42,USA,04-08-2023,Food,2606.28,Paypal,3
+1138,Eve Davis,Male,42,India,Unknown,Electronics,2606.28,Paypal,3
+1030,David Brown,Female,25,India,01-01-2023,Electronics,2606.28,Credit Card,3
+1020,Bob Smith,Male,20,India,Unknown,Food,2606.28,Cash,2
+1070,Ivy Taylor,Female,42,USA,Unknown,Clothing,2606.28,Cash,1
+1061,David Brown,Male,29,India,19-04-2023,Food,2606.28,Credit Card,3
+1069,Grace Wilson,Female,42,USA,05-06-2023,Sports,2606.28,Credit Card,5
+1006,Jack Anderson,Female,42,India,08-08-2023,Electronics,2606.28,Credit Card,4
+1140,David Brown,Female,50,UK,19-10-2023,Electronics,2606.28,Cash,3
+1057,Bob Smith,Female,42,Germany,26-02-2023,Sports,2606.28,Credit Card,3
+1157,Alice Johnson,Female,42,UK,20-11-2023,Clothing,2606.28,Debit Card,4
+1177,Alice Johnson,Female,42,Germany,26-08-2023,Food,2606.28,Debit Card,3
+1164,David Brown,Female,42,Germany,05-06-2023,Clothing,2606.28,Credit Card,3
+1066,Jack Anderson,Male,42,India,12-03-2023,Food,2606.28,Paypal,3
+1113,Eve Davis,Female,61,UK,23-10-2023,Food,2606.28,Credit Card,3
+1187,Eve Davis,Male,42,UK,12-01-2023,Electronics,2606.28,Credit Card,3
+1156,Eve Davis,Male,42,USA,Unknown,Electronics,2606.28,Debit Card,3
+1032,Carol White,Male,42,India,Unknown,Clothing,2606.28,Credit Card,3
+1013,Henry Moore,Female,42,India,10-02-2023,Electronics,2606.28,Credit Card,2
+1036,Eve Davis,Male,67,USA,23-08-2023,Sports,2606.28,Cash,3
+1029,Grace Wilson,Male,42,UK,Unknown,Food,2606.28,Paypal,3
+1043,Jack Anderson,Female,52,India,01-07-2023,Electronics,2606.28,Debit Card,3
+1085,Henry Moore,Male,42,India,06-11-2023,Food,2606.28,Debit Card,3
+1105,Henry Moore,Male,42,India,13-07-2023,Electronics,2606.28,Credit Card,3
+1151,Carol White,Male,62,India,Unknown,Electronics,2606.28,Paypal,3
+1052,Alice Johnson,Female,42,Germany,11-06-2023,Clothing,2606.28,Debit Card,2
+1125,Alice Johnson,Male,42,UK,Unknown,Electronics,2606.28,Credit Card,3
+1077,Ivy Taylor,Male,42,USA,Unknown,Food,2606.28,Credit Card,3
+1042,Bob Smith,Female,42,India,05-04-2023,Food,2606.28,Credit Card,4
+1136,Jack Anderson,Female,45,UK,14-10-2023,Food,2606.28,Credit Card,3
+1079,Alice Johnson,Female,29,India,03-02-2023,Clothing,2606.28,Cash,3
+1179,Bob Smith,Male,42,India,12-02-2023,Food,2606.28,Paypal,3
+1027,Jack Anderson,Male,42,India,07-02-2023,Clothing,2606.28,Credit Card,3
+1147,Ivy Taylor,Male,42,India,Unknown,Sports,2606.28,Cash,3
+1174,Alice Johnson,Male,68,India,Unknown,Food,2606.28,Paypal,3
+1001,Grace Wilson,Female,42,UK,11-08-2023,Food,2606.28,Cash,5
+1003,Henry Moore,Male,42,Germany,Unknown,Food,2606.28,Paypal,3
+1078,Ivy Taylor,Female,42,Germany,23-02-2023,Electronics,2606.28,Paypal,5
+1047,Bob Smith,Male,42,India,12-05-2023,Clothing,2606.28,Paypal,3
+1154,Henry Moore,Male,42,India,Unknown,Electronics,2606.28,Credit Card,3
+1119,Grace Wilson,Female,42,India,12-02-2023,Electronics,2606.28,Debit Card,2
+1091,Carol White,Male,62,Germany,03-10-2023,Food,2606.28,Credit Card,3
+1086,Henry Moore,Male,42,USA,25-02-2023,Clothing,2606.28,Cash,3
+1148,Ivy Taylor,Female,42,UK,14-02-2023,Food,2606.28,Credit Card,3
+1099,Ivy Taylor,Female,42,India,24-08-2023,Clothing,2606.28,Credit Card,3
+1037,Ivy Taylor,Male,28,India,01-02-2023,Food,2606.28,Cash,4
+1126,David Brown,Male,40,India,Unknown,Sports,2606.28,Credit Card,3
+1062,Frank Miller,Male,42,UK,20-11-2023,Clothing,2606.28,Cash,3
+1023,Jack Anderson,Female,61,USA,22-04-2023,Electronics,2606.28,Paypal,3
+1145,Alice Johnson,Female,42,UK,10-07-2023,Electronics,2606.28,Paypal,3
+1118,Grace Wilson,Female,42,Germany,Unknown,Clothing,2606.28,Credit Card,3
+1034,Carol White,Male,42,Germany,14-01-2023,Food,2606.28,Debit Card,3
+1012,Henry Moore,Male,42,USA,06-09-2023,Electronics,2606.28,Debit Card,3
+1184,Alice Johnson,Male,42,USA,18-02-2023,Clothing,2606.28,Cash,3
+1007,Carol White,Female,49,India,08-03-2023,Clothing,2606.28,Credit Card,3
+1028,Carol White,Female,42,India,27-11-2023,Sports,2606.28,Paypal,3
+1137,Ivy Taylor,Male,42,India,26-03-2023,Electronics,2606.28,Credit Card,3
+1183,Alice Johnson,Male,42,USA,08-03-2023,Food,2606.28,Cash,2
+1159,Jack Anderson,Female,30,USA,06-05-2023,Food,2606.28,Debit Card,3
+1005,Grace Wilson,Male,42,USA,05-03-2023,Electronics,2606.28,Cash,3
+1033,Eve Davis,Male,42,UK,27-03-2023,Sports,2606.28,Credit Card,3
+1120,Ivy Taylor,Male,37,India,20-02-2023,Electronics,2606.28,Credit Card,3
+1160,Henry Moore,Male,51,Germany,24-02-2023,Sports,2606.28,Credit Card,3
+1127,David Brown,Male,42,India,Unknown,Clothing,2606.28,Paypal,3
+1115,Alice Johnson,Female,64,USA,02-04-2023,Clothing,2606.28,Debit Card,3
+1011,David Brown,Female,19,Germany,20-01-2023,Sports,2606.28,Debit Card,3
+1063,Bob Smith,Female,42,India,26-02-2023,Electronics,2606.28,Credit Card,4
+1165,Alice Johnson,Male,34,USA,26-07-2023,Clothing,2606.28,Credit Card,3
+1195,Frank Miller,Male,42,India,11-07-2023,Clothing,2606.28,Paypal,3
+1182,Eve Davis,Male,42,India,21-06-2023,Food,2606.28,Credit Card,1
+1129,Grace Wilson,Male,42,Germany,Unknown,Clothing,2606.28,Cash,3
+1199,Bob Smith,Male,42,USA,06-10-2023,Clothing,2606.28,Debit Card,3
+1168,David Brown,Male,40,Germany,01-01-2023,Food,2606.28,Cash,3
+1071,Henry Moore,Male,56,India,23-01-2023,Electronics,2606.28,Paypal,3
+1171,Carol White,Male,34,USA,06-04-2023,Clothing,2606.28,Cash,3
+1065,Bob Smith,Female,42,Germany,05-02-2023,Electronics,2606.28,Credit Card,5
+1045,Jack Anderson,Female,42,Germany,02-10-2023,Food,2606.28,Paypal,3
+1144,Grace Wilson,Male,42,USA,04-02-2023,Electronics,2606.28,Credit Card,3
+1041,Ivy Taylor,Female,54,USA,14-08-2023,Electronics,2606.28,Credit Card,3
+1124,Grace Wilson,Female,48,India,24-08-2023,Clothing,2606.28,Credit Card,4
+1024,Frank Miller,Male,42,Germany,08-03-2023,Electronics,2606.28,Credit Card,1
+1166,Alice Johnson,Male,48,India,08-10-2023,Clothing,2606.28,Credit Card,3
+1162,Henry Moore,Female,18,India,20-06-2023,Clothing,2606.28,Paypal,3
+1082,Ivy Taylor,Female,42,UK,Unknown,Food,2606.28,Debit Card,3
+1040,David Brown,Female,42,USA,Unknown,Clothing,2606.28,Paypal,3
+1185,Carol White,Female,61,India,11-07-2023,Electronics,2606.28,Cash,3
+1048,David Brown,Female,42,India,10-01-2023,Sports,2606.28,Paypal,1
+1095,Grace Wilson,Female,42,UK,02-10-2023,Electronics,2606.28,Debit Card,3
+1169,Grace Wilson,Male,42,India,09-10-2023,Electronics,2606.28,Credit Card,2
+1044,Ivy Taylor,Male,42,USA,21-03-2023,Sports,2606.28,Credit Card,3
+1146,Alice Johnson,Female,42,India,22-03-2023,Sports,2606.28,Cash,3
+1004,Eve Davis,Female,42,USA,08-11-2023,Clothing,2606.28,Paypal,3
+1106,Eve Davis,Male,25,Germany,24-02-2023,Electronics,2606.28,Paypal,3
+1054,Bob Smith,Male,34,USA,21-06-2023,Food,2606.28,Cash,5
+1134,Frank Miller,Female,42,India,07-11-2023,Food,2606.28,Debit Card,3
+1200,Frank Miller,Male,55,Germany,01-08-2023,Electronics,2606.28,Paypal,3
+1172,Alice Johnson,Male,31,India,Unknown,Electronics,2606.28,Debit Card,4
+1050,Henry Moore,Female,29,India,07-09-2023,Electronics,2606.28,Debit Card,3
+1081,Grace Wilson,Male,61,USA,12-09-2023,Food,2606.28,Cash,5
+1035,Grace Wilson,Male,42,USA,22-02-2023,Electronics,2606.28,Credit Card,3
+1008,Grace Wilson,Male,22,Germany,15-01-2023,Clothing,2606.28,Credit Card,3
+1111,Alice Johnson,Female,42,India,12-04-2023,Electronics,2606.28,Credit Card,3
+1092,Alice Johnson,Male,42,UK,Unknown,Electronics,2606.28,Credit Card,3
+1084,Alice Johnson,Female,42,UK,Unknown,Food,2606.28,Credit Card,1
+1196,Henry Moore,Male,42,USA,13-09-2023,Clothing,2606.28,Cash,3
+1090,Carol White,Female,42,USA,09-01-2023,Electronics,2606.28,Paypal,3
+1009,Henry Moore,Male,42,UK,19-08-2023,Sports,2606.28,Credit Card,3
+1014,Carol White,Male,42,UK,Unknown,Food,2606.28,Debit Card,3
+1060,Jack Anderson,Female,42,Germany,Unknown,Clothing,2606.28,Cash,3
+1132,Grace Wilson,Male,42,India,11-08-2023,Clothing,2606.28,Credit Card,3
+1018,Henry Moore,Female,42,India,14-10-2023,Food,2606.28,Paypal,3
+1167,Jack Anderson,Female,42,India,Unknown,Food,2606.28,Cash,3
+1073,Bob Smith,Male,42,India,20-02-2023,Sports,2606.28,Debit Card,3
+1193,Henry Moore,Male,42,UK,Unknown,Electronics,2606.28,Debit Card,3
+1135,Bob Smith,Male,42,India,26-06-2023,Electronics,2606.28,Credit Card,3
+1175,Henry Moore,Male,42,USA,Unknown,Food,2606.28,Credit Card,4
+1064,Jack Anderson,Male,42,USA,25-10-2023,Clothing,2606.28,Credit Card,3
+1055,Henry Moore,Male,42,Germany,25-06-2023,Food,2606.28,Paypal,3
+1108,Henry Moore,Male,42,Germany,Unknown,Electronics,2606.28,Paypal,1
+1051,Carol White,Female,42,Germany,11-04-2023,Sports,2606.28,Debit Card,3
+1170,Bob Smith,Male,42,India,Unknown,Clothing,2606.28,Paypal,2
+1059,Frank Miller,Female,42,Germany,07-11-2023,Electronics,2606.28,Debit Card,3
+1049,Grace Wilson,Female,49,USA,23-01-2023,Sports,2606.28,Paypal,3
+1089,Henry Moore,Male,42,USA,17-10-2023,Electronics,2606.28,Debit Card,3
+1022,Alice Johnson,Male,42,India,19-08-2023,Food,2606.28,Paypal,4
+1058,Frank Miller,Female,36,Germany,08-11-2023,Food,2606.28,Credit Card,1
+1161,Frank Miller,Male,42,USA,07-09-2023,Electronics,2606.28,Cash,3
+1188,Jack Anderson,Male,42,Germany,22-07-2023,Sports,2606.28,Credit Card,2
+1192,Grace Wilson,Male,42,USA,18-09-2023,Clothing,2606.28,Paypal,3
+1130,Grace Wilson,Female,42,USA,02-07-2023,Sports,2606.28,Credit Card,3
+1038,Grace Wilson,Male,53,USA,25-01-2023,Electronics,2606.28,Debit Card,3
+1158,Carol White,Female,44,India,23-01-2023,Clothing,2606.28,Debit Card,3
+1002,David Brown,Male,42,UK,24-05-2023,Sports,2606.28,Cash,3
+1053,David Brown,Male,42,USA,05-01-2023,Clothing,2606.28,Paypal,1
+1150,Ivy Taylor,Female,42,USA,Unknown,Sports,2606.28,Credit Card,3
+1131,David Brown,Male,42,India,10-02-2023,Clothing,2606.28,Debit Card,3
+1152,Grace Wilson,Male,42,India,10-11-2023,Clothing,2606.28,Cash,3
+1104,Grace Wilson,Female,42,Germany,18-07-2023,Electronics,2606.28,Cash,3
+1100,Henry Moore,Male,42,Germany,01-08-2023,Sports,2606.28,Paypal,3
+1117,Jack Anderson,Male,42,Germany,06-03-2023,Food,2606.28,Credit Card,3
+1088,Alice Johnson,Male,46,India,19-10-2023,Electronics,2606.28,Cash,3
+1075,Henry Moore,Male,42,UK,Unknown,Electronics,2606.28,Cash,3
+1122,Jack Anderson,Male,58,Germany,15-09-2023,Food,2606.28,Credit Card,3
+1021,Eve Davis,Male,42,India,17-10-2023,Electronics,2606.28,Debit Card,5
+1189,Frank Miller,Male,32,India,15-09-2023,Food,2606.28,Credit Card,3
+1072,Eve Davis,Male,42,UK,Unknown,Sports,2606.28,Debit Card,3
+1107,Carol White,Male,42,USA,09-10-2023,Clothing,2606.28,Credit Card,3
+1015,Frank Miller,Male,42,India,20-08-2023,Electronics,2606.28,Debit Card,3
+1093,Eve Davis,Male,42,India,02-05-2023,Electronics,2606.28,Debit Card,3
+1180,Frank Miller,Female,42,India,16-07-2023,Electronics,2606.28,Paypal,4
+1103,Grace Wilson,Male,42,India,Unknown,Electronics,2606.28,Credit Card,5

@@ -1,0 +1,221 @@
+CustomerID,customer_name,Gender,Age,Country,Purchase_Date,Product Category,Amount Spent,Payment_Method,Rating
+1133,Carol White,female,150.0,IND,,electronics,3216.4,Credit Card,10.0
+1149,David Brown,F,150.0,india,08/07/2023,ELECTRONICS,938.65,Debit Card,
+1094,Jack Anderson,M,24.0,GER,09-08-2023,Sports,0.0,paypal,0.0
+1181,Grace Wilson,M,,India,,clothing,-100.0,PayPal,5.0
+1016,Eve Davis,FEMALE,150.0,United States,03/19/2023,ELECTRONICS,0.0,Cash,
+1116,Eve Davis,F,,US,,Electronics,0.0,PayPal,0.0
+1173,Eve Davis,,63.0,USA,09/21/2023,FOOD,-100.0,debit card,0.0
+1046,Eve Davis,female,-5.0,india,,clothing,-100.0,,1.0
+1076,Jack Anderson,F,40.0,United Kingdom,,Clothing,-100.0,Cash,0.0
+1143,Ivy Taylor,male,46.0,US,,sports,4160.17,Debit Card,1.0
+1101,Bob Smith,M,-5.0,Germany,11/13/2023,clothing,-100.0,Debit Card,0.0
+1031,Ivy Taylor,Male,,United Kingdom,,Clothing,-100.0,PayPal,
+1191,David Brown,,-5.0,GER,,Electronics,,CREDIT CARD,0.0
+1010,Eve Davis,male,150.0,USA,,Food,4781.55,CASH,10.0
+1068,Henry Moore,female,-5.0,United Kingdom,2023-05-17,electronics,,Credit Card,1.0
+1083,Henry Moore,FEMALE,63.0,US,09/16/2023,ELECTRONICS,-100.0,debit card,10.0
+1176,Alice Johnson,Male,18.0,USA,14-10-2023,clothing,0.0,CREDIT CARD,1.0
+1019,Frank Miller,FEMALE,150.0,United States,2023-09-01,electronics,0.0,debit card,10.0
+1198,David Brown,female,-5.0,Germany,08/14/2023,clothing,3324.3,CREDIT CARD,5.0
+1067,David Brown,M,29.0,USA,,electronics,0.0,Cash,0.0
+1190,Grace Wilson,F,,UK,2023-01-26,clothing,0.0,,4.0
+1097,Ivy Taylor,,-5.0,USA,05-10-2023,ELECTRONICS,,,10.0
+1067,David Brown,M,29.0,USA,,electronics,0.0,Cash,0.0
+1026,Alice Johnson,MALE,19.0,UK,09/03/2023,FOOD,3733.57,Credit Card,5.0
+1128,Eve Davis,Female,150.0,IND,10/08/2023,electronics,3680.17,CASH,1.0
+1016,Eve Davis,FEMALE,150.0,United States,03/19/2023,ELECTRONICS,0.0,Cash,
+1098,Grace Wilson,M,,UK,2023-03-26,FOOD,,debit card,4.0
+1017,Bob Smith,MALE,50.0,india,,Food,-100.0,PayPal,10.0
+1046,Eve Davis,female,-5.0,india,,clothing,-100.0,,1.0
+1155,Ivy Taylor,M,-5.0,india,22-04-2023,FOOD,,paypal,
+1112,Carol White,male,,United States,06/15/2023,sports,1944.49,Cash,2.0
+1056,David Brown,,,,25-05-2023,electronics,,PayPal,10.0
+1109,Frank Miller,Female,150.0,United States,27-01-2023,,3481.13,debit card,0.0
+1197,Eve Davis,MALE,-5.0,IND,18-03-2023,electronics,,paypal,0.0
+1074,Eve Davis,Male,,GER,11/10/2023,Electronics,548.64,Debit Card,10.0
+1110,Carol White,,66.0,India,08/27/2023,sports,,PayPal,
+1083,Henry Moore,FEMALE,63.0,US,09/16/2023,ELECTRONICS,-100.0,debit card,10.0
+1139,Frank Miller,Female,34.0,United Kingdom,19-02-2023,clothing,2942.97,PayPal,10.0
+1142,Grace Wilson,F,150.0,UK,04/05/2023,,,paypal,4.0
+1102,Alice Johnson,male,20.0,USA,04-11-2023,ELECTRONICS,,Cash,0.0
+1087,Carol White,Male,19.0,GER,20-04-2023,Clothing,1240.93,,10.0
+1194,Alice Johnson,female,,United States,,electronics,,CASH,0.0
+1121,Jack Anderson,FEMALE,-5.0,India,08/26/2023,sports,,Debit Card,0.0
+1096,Jack Anderson,male,,Germany,2023-06-08,Food,,credit card,0.0
+1080,Ivy Taylor,F,,United Kingdom,,electronics,-100.0,Credit Card,10.0
+1153,Frank Miller,FEMALE,,India,22-10-2023,sports,,debit card,10.0
+1114,Carol White,FEMALE,49.0,United Kingdom,,Electronics,-100.0,,2.0
+1141,Jack Anderson,MALE,37.0,Germany,2023-01-21,electronics,1679.21,Cash,4.0
+1123,Carol White,,-5.0,United States,06/22/2023,sports,,paypal,
+1163,Ivy Taylor,female,-5.0,United Kingdom,02/10/2023,FOOD,0.0,CREDIT CARD,
+1178,Bob Smith,F,150.0,india,,clothing,0.0,Credit Card,4.0
+1039,Bob Smith,male,38.0,GER,03-08-2023,Sports,-100.0,CASH,0.0
+1025,Ivy Taylor,male,,UK,21-09-2023,electronics,217.95,,5.0
+1186,Bob Smith,MALE,,United States,08/04/2023,FOOD,923.25,paypal,
+1138,Eve Davis,MALE,,,,ELECTRONICS,,PayPal,10.0
+1030,David Brown,Female,25.0,India,01-01-2023,,-100.0,CREDIT CARD,0.0
+1020,Bob Smith,Male,20.0,,,FOOD,1142.55,Cash,2.0
+1070,Ivy Taylor,FEMALE,150.0,US,,clothing,0.0,CASH,1.0
+1116,Eve Davis,F,,US,,Electronics,0.0,PayPal,0.0
+1061,David Brown,male,29.0,india,2023-04-19,Food,0.0,credit card,
+1069,Grace Wilson,FEMALE,150.0,USA,05-06-2023,sports,0.0,Credit Card,5.0
+1006,Jack Anderson,female,,IND,2023-08-08,electronics,,,4.0
+1140,David Brown,Female,50.0,UK,2023-10-19,ELECTRONICS,,CASH,10.0
+1057,Bob Smith,Female,-5.0,Germany,26-02-2023,Sports,2202.63,credit card,10.0
+1157,Alice Johnson,female,,United Kingdom,11/20/2023,Clothing,0.0,debit card,4.0
+1177,Alice Johnson,Female,150.0,GER,26-08-2023,Food,,Debit Card,0.0
+1164,David Brown,Female,150.0,GER,2023-06-05,Clothing,,credit card,10.0
+1066,Jack Anderson,Male,-5.0,India,12-03-2023,FOOD,,PayPal,10.0
+1113,Eve Davis,FEMALE,61.0,United Kingdom,23-10-2023,Food,0.0,CREDIT CARD,10.0
+1187,Eve Davis,male,150.0,United Kingdom,01/12/2023,,0.0,CREDIT CARD,0.0
+1156,Eve Davis,MALE,,USA,,Electronics,,debit card,0.0
+1032,Carol White,M,,India,,clothing,-100.0,Credit Card,
+1013,Henry Moore,female,-5.0,India,02/10/2023,ELECTRONICS,0.0,,2.0
+1036,Eve Davis,,67.0,US,2023-08-23,sports,0.0,Cash,0.0
+1029,Grace Wilson,Male,,United Kingdom,,Food,4782.94,PayPal,10.0
+1043,Jack Anderson,FEMALE,52.0,IND,2023-07-01,ELECTRONICS,,debit card,
+1085,Henry Moore,M,,,2023-11-06,Food,,Debit Card,0.0
+1105,Henry Moore,M,150.0,India,13-07-2023,ELECTRONICS,0.0,CREDIT CARD,0.0
+1151,Carol White,M,62.0,India,,ELECTRONICS,,paypal,
+1052,Alice Johnson,female,-5.0,GER,11-06-2023,clothing,,debit card,2.0
+1125,Alice Johnson,MALE,150.0,United Kingdom,,electronics,0.0,credit card,
+1178,Bob Smith,F,150.0,india,,clothing,0.0,Credit Card,4.0
+1077,Ivy Taylor,MALE,-5.0,United States,,FOOD,0.0,CREDIT CARD,0.0
+1042,Bob Smith,F,150.0,IND,04/05/2023,FOOD,-100.0,CREDIT CARD,4.0
+1136,Jack Anderson,FEMALE,45.0,UK,10/14/2023,FOOD,-100.0,credit card,0.0
+1079,Alice Johnson,F,29.0,,02/03/2023,Clothing,2715.76,CASH,0.0
+1179,Bob Smith,,150.0,IND,2023-02-12,FOOD,1308.19,paypal,10.0
+1027,Jack Anderson,,,,02/07/2023,Clothing,0.0,credit card,0.0
+1147,Ivy Taylor,Male,-5.0,India,,sports,-100.0,CASH,0.0
+1174,Alice Johnson,M,68.0,India,,Food,0.0,PayPal,
+1070,Ivy Taylor,FEMALE,150.0,US,,clothing,0.0,CASH,1.0
+1001,Grace Wilson,F,,United Kingdom,11-08-2023,Food,0.0,CASH,5.0
+1003,Henry Moore,,150.0,GER,,FOOD,-100.0,PayPal,
+1078,Ivy Taylor,F,-5.0,GER,02/23/2023,,,paypal,5.0
+1047,Bob Smith,Male,150.0,IND,05/12/2023,Clothing,4842.76,PayPal,
+1154,Henry Moore,M,-5.0,india,,ELECTRONICS,0.0,CREDIT CARD,10.0
+1119,Grace Wilson,Female,-5.0,IND,12-02-2023,ELECTRONICS,-100.0,debit card,2.0
+1091,Carol White,male,62.0,Germany,10/03/2023,Food,,CREDIT CARD,
+1086,Henry Moore,Male,,United States,2023-02-25,clothing,0.0,Cash,
+1148,Ivy Taylor,female,,United Kingdom,14-02-2023,FOOD,0.0,CREDIT CARD,0.0
+1099,Ivy Taylor,FEMALE,-5.0,india,24-08-2023,Clothing,,CREDIT CARD,10.0
+1037,Ivy Taylor,male,28.0,,2023-02-01,FOOD,,CASH,4.0
+1126,David Brown,MALE,40.0,,,Sports,2606.28,,0.0
+1062,Frank Miller,,150.0,United Kingdom,20-11-2023,Clothing,,CASH,10.0
+1023,Jack Anderson,Female,61.0,US,2023-04-22,Electronics,3689.79,PayPal,10.0
+1145,Alice Johnson,F,,United Kingdom,07/10/2023,electronics,1500.64,PayPal,
+1118,Grace Wilson,Female,150.0,Germany,,Clothing,,Credit Card,0.0
+1034,Carol White,MALE,-5.0,Germany,2023-01-14,FOOD,,Debit Card,10.0
+1012,Henry Moore,MALE,150.0,USA,06-09-2023,electronics,3296.87,Debit Card,10.0
+1187,Eve Davis,male,150.0,United Kingdom,01/12/2023,,0.0,CREDIT CARD,0.0
+1184,Alice Johnson,M,,USA,18-02-2023,clothing,1550.41,CASH,0.0
+1007,Carol White,female,49.0,India,08-03-2023,clothing,2385.33,CREDIT CARD,3.0
+1028,Carol White,female,-5.0,india,11/27/2023,Sports,535.78,paypal,
+1137,Ivy Taylor,male,150.0,India,2023-03-26,ELECTRONICS,-100.0,CREDIT CARD,
+1183,Alice Johnson,MALE,150.0,US,03/08/2023,Food,-100.0,Cash,2.0
+1159,Jack Anderson,female,30.0,US,06-05-2023,FOOD,0.0,Debit Card,
+1005,Grace Wilson,male,,USA,05-03-2023,Electronics,0.0,Cash,10.0
+1033,Eve Davis,M,-5.0,United Kingdom,03/27/2023,sports,0.0,,0.0
+1120,Ivy Taylor,Male,37.0,india,2023-02-20,ELECTRONICS,-100.0,CREDIT CARD,
+1160,Henry Moore,male,51.0,Germany,2023-02-24,Sports,0.0,Credit Card,0.0
+1127,David Brown,male,150.0,india,,clothing,-100.0,paypal,0.0
+1159,Jack Anderson,female,30.0,US,06-05-2023,FOOD,0.0,Debit Card,
+1115,Alice Johnson,Female,64.0,USA,02-04-2023,Clothing,0.0,debit card,
+1011,David Brown,female,19.0,GER,20-01-2023,Sports,4777.12,debit card,10.0
+1063,Bob Smith,female,-5.0,,26-02-2023,electronics,-100.0,CREDIT CARD,4.0
+1165,Alice Johnson,male,34.0,US,2023-07-26,Clothing,,CREDIT CARD,
+1195,Frank Miller,M,,India,07/11/2023,clothing,,paypal,0.0
+1182,Eve Davis,Male,-5.0,,21-06-2023,Food,3628.53,,1.0
+1129,Grace Wilson,,150.0,Germany,,Clothing,0.0,Cash,
+1199,Bob Smith,Male,150.0,USA,06-10-2023,Clothing,,Debit Card,10.0
+1168,David Brown,male,40.0,GER,01-01-2023,FOOD,0.0,CASH,
+1071,Henry Moore,MALE,56.0,India,01/23/2023,electronics,-100.0,PayPal,0.0
+1171,Carol White,M,34.0,US,04/06/2023,Clothing,0.0,Cash,
+1065,Bob Smith,female,150.0,GER,02/05/2023,Electronics,,credit card,5.0
+1045,Jack Anderson,FEMALE,,GER,2023-10-02,Food,,PayPal,0.0
+1144,Grace Wilson,,-5.0,US,02/04/2023,electronics,-100.0,Credit Card,0.0
+1041,Ivy Taylor,FEMALE,54.0,US,2023-08-14,ELECTRONICS,,credit card,
+1124,Grace Wilson,F,48.0,,24-08-2023,clothing,4910.03,CREDIT CARD,4.0
+1024,Frank Miller,MALE,150.0,Germany,2023-03-08,ELECTRONICS,0.0,,1.0
+1166,Alice Johnson,Male,48.0,IND,2023-10-08,Clothing,2150.15,Credit Card,
+1162,Henry Moore,FEMALE,18.0,,2023-06-20,clothing,-100.0,paypal,
+1082,Ivy Taylor,F,-5.0,UK,,Food,,debit card,10.0
+1040,David Brown,female,,US,,Clothing,0.0,paypal,10.0
+1185,Carol White,F,61.0,india,11-07-2023,,3046.55,Cash,0.0
+1048,David Brown,FEMALE,,india,01/10/2023,Sports,-100.0,PayPal,1.0
+1095,Grace Wilson,F,150.0,UK,02-10-2023,,0.0,Debit Card,
+1169,Grace Wilson,MALE,,india,09-10-2023,electronics,0.0,credit card,2.0
+1044,Ivy Taylor,Male,150.0,United States,21-03-2023,Sports,1310.96,CREDIT CARD,
+1146,Alice Johnson,F,150.0,IND,22-03-2023,Sports,-100.0,CASH,
+1153,Frank Miller,FEMALE,,India,22-10-2023,sports,,debit card,10.0
+1004,Eve Davis,F,150.0,US,08-11-2023,Clothing,,PayPal,10.0
+1106,Eve Davis,MALE,25.0,GER,02/24/2023,electronics,,paypal,
+1054,Bob Smith,,34.0,USA,2023-06-21,Food,,CASH,5.0
+1134,Frank Miller,female,150.0,india,2023-11-07,Food,0.0,Debit Card,0.0
+1200,Frank Miller,M,55.0,Germany,2023-08-01,Electronics,-100.0,PayPal,10.0
+1172,Alice Johnson,MALE,31.0,India,,ELECTRONICS,-100.0,Debit Card,4.0
+1129,Grace Wilson,,150.0,Germany,,Clothing,0.0,Cash,
+1050,Henry Moore,F,29.0,IND,09/07/2023,Electronics,0.0,Debit Card,0.0
+1081,Grace Wilson,male,61.0,US,12-09-2023,FOOD,-100.0,CASH,5.0
+1035,Grace Wilson,,,US,02/22/2023,,,CREDIT CARD,
+1008,Grace Wilson,male,22.0,GER,01/15/2023,clothing,3074.27,CREDIT CARD,3.0
+1111,Alice Johnson,F,,india,2023-04-12,electronics,1783.91,credit card,3.0
+1092,Alice Johnson,Male,150.0,UK,,electronics,,Credit Card,
+1084,Alice Johnson,Female,,UK,,Food,4386.92,credit card,1.0
+1196,Henry Moore,M,,USA,13-09-2023,clothing,,CASH,0.0
+1096,Jack Anderson,male,,Germany,2023-06-08,Food,,credit card,0.0
+1090,Carol White,female,150.0,US,01/09/2023,,,paypal,0.0
+1009,Henry Moore,male,150.0,United Kingdom,08/19/2023,Sports,2302.64,Credit Card,
+1014,Carol White,,150.0,United Kingdom,,Food,391.32,Debit Card,
+1060,Jack Anderson,F,-5.0,Germany,,clothing,-100.0,Cash,
+1079,Alice Johnson,F,29.0,,02/03/2023,Clothing,2715.76,CASH,0.0
+1132,Grace Wilson,,,india,08/11/2023,Clothing,,CREDIT CARD,0.0
+1018,Henry Moore,Female,-5.0,IND,2023-10-14,Food,0.0,PayPal,0.0
+1167,Jack Anderson,FEMALE,-5.0,india,,Food,0.0,Cash,3.0
+1073,Bob Smith,Male,,india,2023-02-20,sports,,debit card,0.0
+1193,Henry Moore,Male,150.0,United Kingdom,,,,Debit Card,10.0
+1135,Bob Smith,Male,150.0,india,2023-06-26,electronics,-100.0,credit card,10.0
+1183,Alice Johnson,MALE,150.0,US,03/08/2023,Food,-100.0,Cash,2.0
+1175,Henry Moore,Male,150.0,USA,,FOOD,0.0,CREDIT CARD,4.0
+1064,Jack Anderson,Male,-5.0,USA,2023-10-25,Clothing,0.0,CREDIT CARD,0.0
+1055,Henry Moore,male,150.0,GER,25-06-2023,Food,1130.83,paypal,10.0
+1108,Henry Moore,male,-5.0,Germany,,electronics,,paypal,1.0
+1051,Carol White,FEMALE,-5.0,Germany,11-04-2023,sports,0.0,debit card,10.0
+1175,Henry Moore,Male,150.0,USA,,FOOD,0.0,CREDIT CARD,4.0
+1057,Bob Smith,Female,-5.0,Germany,26-02-2023,Sports,2202.63,credit card,10.0
+1170,Bob Smith,M,-5.0,India,,clothing,-100.0,PayPal,2.0
+1059,Frank Miller,Female,150.0,Germany,11/07/2023,Electronics,1211.06,Debit Card,
+1049,Grace Wilson,female,49.0,USA,23-01-2023,Sports,,paypal,
+1089,Henry Moore,male,-5.0,US,17-10-2023,Electronics,0.0,debit card,0.0
+1022,Alice Johnson,,-5.0,,19-08-2023,Food,4413.47,paypal,4.0
+1058,Frank Miller,Female,36.0,GER,2023-11-08,FOOD,0.0,,1.0
+1161,Frank Miller,MALE,-5.0,United States,2023-09-07,Electronics,,CASH,3.0
+1166,Alice Johnson,Male,48.0,IND,2023-10-08,Clothing,2150.15,Credit Card,
+1188,Jack Anderson,male,-5.0,GER,07/22/2023,Sports,2095.77,CREDIT CARD,2.0
+1192,Grace Wilson,M,-5.0,United States,09/18/2023,clothing,-100.0,paypal,0.0
+1130,Grace Wilson,FEMALE,150.0,USA,07/02/2023,sports,0.0,Credit Card,10.0
+1038,Grace Wilson,male,53.0,United States,2023-01-25,Electronics,0.0,Debit Card,0.0
+1158,Carol White,F,44.0,india,2023-01-23,Clothing,0.0,Debit Card,
+1171,Carol White,M,34.0,US,04/06/2023,Clothing,0.0,Cash,
+1002,David Brown,Male,,UK,05/24/2023,sports,3233.99,Cash,10.0
+1053,David Brown,male,,United States,01/05/2023,Clothing,-100.0,PayPal,1.0
+1150,Ivy Taylor,F,,United States,,sports,0.0,,3.0
+1131,David Brown,MALE,150.0,IND,2023-02-10,Clothing,-100.0,debit card,10.0
+1152,Grace Wilson,Male,,,2023-11-10,clothing,,Cash,10.0
+1104,Grace Wilson,female,,Germany,07/18/2023,electronics,-100.0,Cash,
+1100,Henry Moore,Male,,GER,2023-08-01,sports,0.0,paypal,0.0
+1117,Jack Anderson,MALE,-5.0,GER,06-03-2023,Food,,,3.0
+1088,Alice Johnson,M,46.0,india,19-10-2023,,0.0,CASH,0.0
+1031,Ivy Taylor,Male,,United Kingdom,,Clothing,-100.0,PayPal,
+1075,Henry Moore,male,-5.0,UK,,ELECTRONICS,-100.0,Cash,
+1122,Jack Anderson,Male,58.0,GER,15-09-2023,Food,0.0,credit card,0.0
+1069,Grace Wilson,FEMALE,150.0,USA,05-06-2023,sports,0.0,Credit Card,5.0
+1021,Eve Davis,,150.0,,10/17/2023,electronics,0.0,Debit Card,5.0
+1189,Frank Miller,M,32.0,IND,09/15/2023,FOOD,-100.0,CREDIT CARD,
+1072,Eve Davis,male,,United Kingdom,,sports,0.0,debit card,0.0
+1107,Carol White,Male,-5.0,US,10/09/2023,Clothing,2969.29,credit card,0.0
+1015,Frank Miller,Male,,IND,20-08-2023,,,Debit Card,10.0
+1093,Eve Davis,Male,-5.0,IND,2023-05-02,ELECTRONICS,-100.0,Debit Card,
+1180,Frank Miller,FEMALE,,,2023-07-16,electronics,2477.46,PayPal,4.0
+1103,Grace Wilson,Male,,India,,electronics,4384.49,credit card,5.0
